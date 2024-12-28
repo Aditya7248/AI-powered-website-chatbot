@@ -76,7 +76,7 @@
 ![Chatbot Interface](https://github.com/Aditya7248/AI-powered-website-chatbot/blob/main/image%20and%20video/webchatbot.png)
 
 ### **Demo Video**:
-[Demo Video](https://github.com/Aditya7248/AI-powered-website-chatbot/blob/main/image%20and%20video/Demo_video.mp4)
+[Website_Chatbot_Demo Video](https://github.com/Aditya7248/AI-powered-website-chatbot/blob/main/image%20and%20video/Demo_video.mp4)
 
 ---
 
