@@ -72,17 +72,8 @@
 
 ## **Example Interaction**
 
-**Sample Commands:**
-- URL: `https://example.com`
-- Question: *"What is this website about?"*
-- Question: *"Can you summarise its content for me?"*
-
-### **Demo Video**:
-[![Demo Video](demo_thumbnail.png)](https://youtu.be/demo-video-link)
-
 ### **Screenshots**:
-![Chatbot Interface](screenshot1.png)
-![Extracted Content](screenshot2.png)
+![Chatbot Interface](image.png)
 
 ---
 
