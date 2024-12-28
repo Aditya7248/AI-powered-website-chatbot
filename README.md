@@ -73,7 +73,7 @@
 ## **Example Interaction**
 
 ### **Screenshots**:
-![Chatbot Interface](image.png)
+![Chatbot Interface](https://drive.google.com/file/d/1LeK5KtyCJbpnPRxP-a_ENZTQxMZKyvvH/view?usp=sharing)
 
 ---
 
